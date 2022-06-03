@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey, you all 👋
+--------------------------------------
+
+I'm <strong>Gustavo Facchinetti</strong>, I'm a former lawyer who always loved to code. In 2021, during the pandemic, I decided stop practicing law and start to study markdown and programer languages.
+Since then, I became a tryber student and start the computer sciente college. 
 
 <!--
 **Knucklesx/Knucklesx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://www.linkedin.com/in/gustavo-facchinetti-4a036084/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
