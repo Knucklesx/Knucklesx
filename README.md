@@ -4,7 +4,9 @@
 I'm <strong>Gustavo Facchinetti</strong>, I'm a former attorney, who decided, during the pandemic, to stop practicing law and start to study to become a software developer.
 Since then, I became a tryber student and start the computer sciente college. 
 
-I believe the Trybe's course will teach the basics of front and back-end, and will help me to create some links with others professional. In addtion, the college will provide knowledge in some others languages, and give a better bases to a more further understand of software development.
+I did some course that taught me the basics of front and back-end, and help me to create some links with others professional. The college provided knowledge in some others languages, and give a better bases to a more further understand of software development.
+
+I'm currently working on BlueWolf BR as FullStack.
 
 <!--
 **Knucklesx/Knucklesx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
